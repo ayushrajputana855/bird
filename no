@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> Amazing Bird</title>
+</head>
+<body bgcolor="sky blue" text="red" >
+        <img src="bird.jpg">    
+    <h1 style="font-size:50px; text-align:center;">AMAZING BIRD </h1>
+    <hr>
+    <font color= "yellow" size=7> 1. GOLDEN EAGLE <br></font>
+    <hr>
+
+<font color= "black" size=5> The golden eagle (Aquila chrysaetos) is a large raptor with a wingspan of 1.8 to 2.34 meters.
+ It is the fifth largest wingspan of any living eagle species.
+ Golden eagles are dark brown with golden lanceolate nape feathers, dark eyes, a yellow cere, a gray beak, fully feathered legs, large yellow feet, and great talons.
+ Females are larger than males <br> </font>
+ <img src="55.jpg">
+ <br>
+ <hr>
+     <font color= "yellow" size=7>2. KING FISHER <br> </font>
+     <hr>
+      <font color= "black" size=5> Kingfishers are small to medium-sized birds that are brightly colored. They are carnivorous and eat a variety of prey, including: Fish, Amphibians, Reptiles, Small mammals, Insects.
+Kingfishers have a large head, a long bill, and a compact body. They have small feet and a short or medium-length tail. Most species have vivid plumage in bold patterns, and many are crested<br> </font>
+ <img src="king.jpg" width="400px" height="300px">
+ <br>
+ <hr>
+ <font color= "yellow" size=7>3. HUMMING BIRD <br> </font>
+ <hr>
+  <font color= "black" size=5>  Hummingbirds are small birds with long, slender bills. They are named for the humming sound their wings make when they beat rapidly. Hummingbirds have many unique abilities, including.<br> </font>
+      <img src="hui.jpg" width="400px" height="300px">
+      <br>
+      <hr>
+       <font color= "yellow" size=7>4.TOUCAN BIRD <br> </font>
+       <hr>
+             <font color= "black" size=5> Toucans are Neotropical birds with large, colorful bills. They are part of the Ramphastidae family, which is closely related to the American barbets. There are over 40 species of toucans.
+Toucans are known for their large, sharp bills.
+ Their bills can be up to four times the size of their head.
+ They use their bills to reach fruit on branches that other birds can't reach. They also eat insects, small reptiles, and other birds' eggs.<br> </font>
+    <img src="to.jpg" width="400px" height="300px"> 
+</body>
+</html>
+
+
+
